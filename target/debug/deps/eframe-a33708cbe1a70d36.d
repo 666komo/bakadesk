@@ -1,0 +1,11 @@
+D:\Coding\rust\bakadesk\target\debug\deps\libeframe-a33708cbe1a70d36.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\epi.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\epi_integration.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\run.rs
+
+D:\Coding\rust\bakadesk\target\debug\deps\libeframe-a33708cbe1a70d36.rlib: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\epi.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\epi_integration.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\run.rs
+
+D:\Coding\rust\bakadesk\target\debug\deps\eframe-a33708cbe1a70d36.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\epi.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\epi_integration.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\run.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\epi.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\epi_integration.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eframe-0.18.0\src\native\run.rs:
